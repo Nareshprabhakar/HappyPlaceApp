@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">HappyPlacesApp</string>
+
+    //splashscreen
+    <string name="happy_place">Happy Places</string>
+    <string name="image">Image</string>
+
+    //main activity
+    <string name="user_name">User Name</string>
+    <string name="my_profile">My Profile</string>
+    <string name="exit">Exit</string>
+    <string name="happy_places_are_unavailable">Happy Places Are Unavailable</string>
+    <string name="name">Name</string>
+    <string name="update">UPDATE</string>
+    <string name="add_happy_place">Add Happy Place</string>
+    <string name="title">TITLE</string>
+    <string name="description">DESCRIPTION</string>
+    <string name="location">LOCATION</string>
+    <string name="date">DATE</string>
+    <string name="add_image">ADD IMAGE</string>
+    <string name="save">SAVE</string>
+    <string name="happy_place_details">Happy Place Details</string>
+    <string name="empty">Empty</string>
+    <string name="Add_Happy_Places" />
+    <string name="add_happy_places">Add Happy Places</string>
+</resources>

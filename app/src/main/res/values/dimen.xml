@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    //for navigation view
+    <dimen name="nav_header_height">200dp</dimen>
+    <dimen name="circle_image_width_height">80dp</dimen>
+
+
+</resources>
