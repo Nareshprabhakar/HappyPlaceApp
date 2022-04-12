@@ -10,9 +10,11 @@ Room Database
 
 Swipe to Edit(Using Third Party Library)
 
+Permission(Dexter library)
+
 Coroutine
 
-Circular ImageView
+Some other third party library
 
 
 
